@@ -25,5 +25,5 @@
 
 
 Some important links: 
-> https://www.zyte.com/blog/handling-javascript-in-scrapy-with-splash/
+> https://www.zyte.com/blog/handling-javascript-in-scrapy-with-splash/ <br/>
 > https://scrapy.org/
